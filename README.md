@@ -8,6 +8,6 @@ Simple jQuery Progress Bar
 ````
 ````javascript
 
-var rate = 40000; // default rate equals 20000
-$("#newsTape").newsTape(rate);
+var speed = 40000; // default speed equals 20000 milliseconds
+$("#newsTape").newsTape(speed);
 ````
