@@ -4,9 +4,10 @@ Simple jQuery Progress Bar
 ## Initialization
 ---
 ````html
-<div id="progress"></div>
+<div id="newsTape">News string, which will be in tape</div>
 ````
 ````javascript
-var bar1 = $("#progress").progressbar();
-	bar1.progress(60); 
+
+var rate = 40000; // default rate equals 20000
+$("#newsTape").newsTape(rate);
 ````
