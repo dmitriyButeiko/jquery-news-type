@@ -13,4 +13,4 @@ $("#newsTape").newsTape(speed);
 ````
 ## Demo
 ---
-http://hayageek.com/examples/jquery/progress-bar/index.php
+http://jquery-news-tape.rhcloud.com
