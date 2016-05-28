@@ -1,6 +1,6 @@
 # jquery-news-tape
 ## Overview
-Simple jQuery Progress Bar
+Simple jQuery News Tape
 ## Initialization
 ---
 ````html
@@ -11,3 +11,6 @@ Simple jQuery Progress Bar
 var speed = 40000; // default speed equals 20000 milliseconds
 $("#newsTape").newsTape(speed);
 ````
+## Demo
+---
+http://hayageek.com/examples/jquery/progress-bar/index.php
