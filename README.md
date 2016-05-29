@@ -13,4 +13,4 @@ $("#newsTape").newsTape(speed);
 ````
 ## Demo
 ---
-http://jquery-news-tape.rhcloud.com
+http://jquerynewstape-buteikodmitriy.rhcloud.com/
