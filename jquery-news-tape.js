@@ -26,10 +26,6 @@
             left : window.innerWidth + 'px'
         });
     }
-
-
-
-
     /*
             the creation of this block prevents the copying of news text
      */
@@ -108,19 +104,6 @@
         createBackgroundBlock();
         createCoverBlock();
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
     function init(inpOptions)
     {
         self = this;
