@@ -3,7 +3,9 @@
         options   =   {},
         self      =   {},
         container =   {};
+    
     $.fn.createNewsTape = init;
+    
     function customizeTypeBlock() {
         self.css({
             'position'         : 'fixed',
@@ -28,7 +30,7 @@
     }
     /*
             the creation of this block prevents the copying of news text
-     */
+    */
     function createCoverBlock() {
         var coverBlock = $( '<div></div>' );
 
